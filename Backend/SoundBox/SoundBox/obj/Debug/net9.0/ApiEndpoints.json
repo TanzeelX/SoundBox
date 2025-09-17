@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "SoundBox.Controllers.SoundBoxController",
+    "Method": "ConvertToAudio",
+    "RelativePath": "api/SoundBox/convert-to-audio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "videoFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "bitrate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SoundBox.Controllers.SoundBoxController",
+    "Method": "Download",
+    "RelativePath": "api/SoundBox/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "formatId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "audioOnly",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SoundBox.Controllers.SoundBoxController",
+    "Method": "GetFormats",
+    "RelativePath": "api/SoundBox/get-formats",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SoundBox.Models.DownloadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

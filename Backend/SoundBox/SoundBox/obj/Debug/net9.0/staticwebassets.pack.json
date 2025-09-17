@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\main-5N3EGXRH.js",
+      "PackagePath": "staticwebassets\\main-5N3EGXRH.js"
+    },
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\main-YV6YJYBG.css",
+      "PackagePath": "staticwebassets\\main-YV6YJYBG.css"
+    },
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\polyfills-5CFQRCPP.js",
+      "PackagePath": "staticwebassets\\polyfills-5CFQRCPP.js"
+    },
+    {
+      "Id": "E:\\Work\\SoundBox\\Backend\\SoundBox\\SoundBox\\wwwroot\\styles-GR4M3M4B.css",
+      "PackagePath": "staticwebassets\\styles-GR4M3M4B.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SoundBox.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SoundBox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SoundBox.props",
+      "PackagePath": "build\\SoundBox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SoundBox.props",
+      "PackagePath": "buildMultiTargeting\\SoundBox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SoundBox.props",
+      "PackagePath": "buildTransitive\\SoundBox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

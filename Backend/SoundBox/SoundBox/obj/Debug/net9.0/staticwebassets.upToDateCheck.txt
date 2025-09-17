@@ -1,0 +1,12 @@
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\polyfills-5CFQRCPP.js
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\main-5N3EGXRH.js
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\index.html
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\favicon.ico
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\main-YV6YJYBG.css
+E:\Work\SoundBox\Backend\SoundBox\SoundBox\wwwroot\styles-GR4M3M4B.css
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\main-5N3EGXRH.js
+wwwroot\main-YV6YJYBG.css
+wwwroot\polyfills-5CFQRCPP.js
+wwwroot\styles-GR4M3M4B.css

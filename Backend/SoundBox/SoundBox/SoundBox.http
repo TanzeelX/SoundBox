@@ -1,0 +1,6 @@
+@SoundBox_HostAddress = http://localhost:5204
+
+GET {{SoundBox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
