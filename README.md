@@ -36,7 +36,5 @@ Merged Angular + .NET Core Application
    ```bash
    git clone https://github.com/TanzeelX/SoundBoxApp.git
 
-   👉 **[I’ll be here](https://github.com/your-username/SoundBoxApp)**
-
-### 👉 [I’ll be here](https://github.com/your-username/SoundBoxApp)
+### 👉 [I’ll be here](https://github.com/TanzeelX)
 
