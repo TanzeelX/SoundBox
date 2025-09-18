@@ -17,7 +17,7 @@ Merged Angular + .NET Core Application
 1. Clone this repo  
 2. Restore NuGet packages  
 3. Run the API (Angular build is inside `wwwroot`)  
-4. Visit `https://localhost:5001`  
+4. Visit `https://localhost:7198`  
 
 ![image alt](https://github.com/TanzeelX/SoundBox/blob/bc06a65db29ba95826024bb36a5b79e6d3acabd6/Screenshots/5.png)
 
